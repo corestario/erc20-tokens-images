@@ -14,9 +14,9 @@ Directory of token images for ERC20 contracts
 ## How to Use It? (For Developers)
 Base URL:
 ```js
-https://raw.githubusercontent.com/Multy-io/tokens/master/images/<contract_address>.png
+https://raw.githubusercontent.com/dgamingfoundation/erc20-tokens-images/master/images/<contract_address>.png
 ```
 Example:
 ```js
-https://raw.githubusercontent.com/Multy-io/tokens/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
+https://raw.githubusercontent.com/dgamingfoundation/erc20-tokens-images/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
 ```
